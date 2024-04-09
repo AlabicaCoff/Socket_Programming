@@ -4,7 +4,8 @@
 Program with Python to develop a program that simulates the FTP command on Windows using
 socket library in Python.
 
-- The main structure of the program can work as Read-Evaluate-Print-Loop (REPL) and can receive commands (4 points)
+- The main structure of the program can work
+  as Read-Evaluate-Print-Loop (REPL) and can receive commands
 - ascii
 - binary
 - bye
